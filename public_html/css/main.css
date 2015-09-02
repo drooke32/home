@@ -1,0 +1,68 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+html {
+    background: url(../img/bg.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+html, body {
+    height: 100%;
+}
+
+body{    
+    background-color: transparent;
+}
+
+.cover-container{
+    display: table;
+    height: 100%;
+    width: 100%;
+    min-height: 100%;
+    background-color: rgba(0,0,0,.4);
+}
+.cover-wrapper{
+    vertical-align: middle;
+    display: table-cell;
+}
+
+.footer, .header{
+    position: fixed;
+    min-width: 100%;
+}
+
+.footer{
+    bottom: 0;
+}
+
+.header{
+    top: 0;
+}
+
+.footer-padding{
+    margin-bottom: 15px;
+}
+
+.title-row{
+    border-bottom: thick solid #333;
+    margin-bottom: 10px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
