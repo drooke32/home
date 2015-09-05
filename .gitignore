@@ -4,6 +4,8 @@ ehthumbs.db
 
 # Folder config file
 Desktop.ini
+project.properties
+project.xml
 
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
@@ -42,3 +44,4 @@ Network Trash Folder
 Temporary Items
 .apdisk
 /nbproject/private/
+/nbproject/
